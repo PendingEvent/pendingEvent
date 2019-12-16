@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import "../assets/global.css"
+import "../assets/css/global.css"
 
 
 import Head from '@/components/Head'
